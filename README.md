@@ -55,56 +55,112 @@ Please use the www.uwaterregistry.io site for current figures, since project cou
 
 | Repository | What it holds |
 |---|---|
-| [repo name] | [One-line description, for example per-project pages and data for UWR XPRESS] |
+| [(https://www.uwaterregistry.io/RouListing)] | [per-project pages and data for UWR XPRESS] |
 
 ## Contact
 
 info@uwaterregistry.io
 
-Keeping global temperature rise to below 2°C will require coordinated global action at an unprecedented scale and speed.  Carbon credits as a financing tool to "setup" projects in developing countries is no longer the solution, given the current low prices prevailing since the past 15 years, instead supporting and scaling all types of climate actions and making it super rewarding to establish the same with carbon credits as an incentive is the only way forward. UCR issues credits under this "carbon incentive" model as opposed to the carbon finance model in the voluntary carbon marketUCR issues credits under the carbon incentive model as opposed to the carbon finance model in the voluntary carbon market. The voluntary carbon market enables private investors, governments, non-governmental organizations, and businesses to voluntarily purchase carbon offsets to offset their emissions as opposed to European Carbon Permits (called European Union Allowances-EUAs). The largest category of buyers comprises private firms that purchase carbon offsets for resale or investment. EUAs are not backed by green projects and are issued by the EU regulators each month via auction in the primary market. Regulated EU companies are mandated to buy EUAs or else pay a fine to the regulator (Euro 100+the current cost of the permit (EUA) currently in the market. The EUA market is not open to investors or speculators). There is no mandatory obligations in the voluntary markets.
+Building on attribution principles used in financed emissions accounting, UWR provides an estimate of how much unutilized water conservation  is associated with a project activity or measure.
 
-The requirements set out by UCR are the same principles and methodologies under the UNFCCC Clean Development Mechanism Approved Methodologies and ISO 14064-2:2019.
+# WATER CREDITS: FROM PROJECT FINANCING TO A GLOBAL WATER CONSERVATION INCENTIVE
 
-All climate projects must comply with the UCR Standard, UCR Program Manual and must further be verified by an independent third party UCR approved accredited certification body/auditor with GHG mitigation and carbon accounting track record, to be eligible for registration and issuance of carbon credits.
+## A New Model to Reward Positive Water Action
 
-The Universal Carbon Registry (UCR) Standard and Platform aims to introduce better carbonomics with the next-generation model of mining voluntary non-compliance carbon credits from a wide range of green projects that is far more efficient, faster, cheaper, de-centralized in transfer and convenient for every small green project owner aiming to decarbonize the economy. The UCR CoUs are blockchain and NFT friendly.
+Water credits should not be viewed merely as a financing instrument for setting up water projects. Experience across environmental credit markets suggests that relying on credit sales alone to finance projects can be challenging, particularly when market prices remain low and unpredictable.
 
-UCR is the first registry in the world to launch the revolutionary “Burn & Tokenize” option for holders of carbon, water and other environmental units to seamlessly create blockchain tokens by allowing the onboarding of the digital signature and the underlying environmental attribute to be taken on chain “live” thus enabling the token to be retired on the burn address of creator. UCR is a member of the UNFCCC Climate Chain Coalition that is mandated to support blockchain climate action and assist the transition and creation of digital technologies to mitigate climate impacts at sale. UCR is neither a blockchain nor a fintech company and maintains a neutral view on the creation of environmental tokens
+**The way forward is to make water credits a powerful incentive for positive water action — rewarding, recognizing and scaling every credible effort that conserves water, improves water efficiency, enables reuse, supports groundwater recharge and strengthens water security.**
 
-Parameter/Voluntary Carbon Market Principles
+The Universal Water Registry (UWR) promotes a model in which water credits can help recognize measurable water benefits and create an additional economic incentive for project owners, communities, businesses, institutions and project developers to undertake and expand water-positive activities.
 
-Description
+Rather than making the sale of credits the sole condition for a project's financial viability, this approach aims to encourage more conservation projects by creating an additional avenue for recognition, participation and potential revenue.
 
-REAL, MEASURABLE AND VERIFIED
+## The Water Incentive Model Versus the Water Finance Model
 
-The UCR carbon credits (also called carbon offset units or CoUs), represent REAL reductions, avoidance or removals of greenhouse gas emissions (CO2 and CH4) that have taken place (ex-post) from green or carbon reduction projects in India, which are currently active and operational.
+Under a conventional project-financing approach, the expectation may be that the future sale of environmental credits will provide the capital needed to establish a project. In markets where prices are low, demand is uncertain or transaction costs are high, this expectation can become a barrier to implementation.
 
+The **water incentive model** takes a different approach.
 
-Each CoU represents a tonne of carbon dioxide (CO2) (or equivalent) emissions reduced, avoided or removed from the atmosphere, from tangible activities that have actually been implemented. The reduction or removal is supported by evidence from credible monitoring and reporting and is verified by an independent third party GHG auditor.
+Water-positive activities can be initiated through public funding, corporate water-stewardship programmes, community investment, philanthropic support, project-owner capital or other suitable sources. Once eligible water benefits have been measured, documented and independently verified in accordance with the applicable UWR requirements, water credits can provide an additional incentive to reward those outcomes.
 
-TRANSPARENCY AND TRACEABILITY
+This model can help make water conservation more attractive, encourage participation by smaller project owners and support the replication and scaling of effective interventions.
 
-Each CoU can be tracked and traced within the UCR platform on its registry from issuance to retirement or when transferred or burnt and tokenized, allowing for a clear and transparent chain of custody. All non confidential records are public and free to access.
+**The objective is not simply to finance a few water projects. It is to create a broader ecosystem in which more water-positive actions become worthwhile to undertake, verify, recognize and scale.**
 
-POSITIVE LIST ADDITIONALITY
+## What Are Water Credits?
 
-The UCR Standard allows for CoUs to be generated from a pre-approved positive list of green projects that improves upon the UNFCCC CDM positive list of pre-approved additional project types. Further, the UCR Standard has an ineligible list of project activities that prohibits clean coal or fossil fuel projects from entry into the platform or generate CoUs. All UCR projects are not mandated by the Indian government or state regulator and are voluntary climate actions by project owners and developers. All CoUs purchased allow for direct climate action. All project activities under UCR meet the “Do No Net Harm to the Environment and Society Criteria” UCR guidance requirement.
+Water credits are environmental units associated with defined water-related outcomes achieved through eligible activities, subject to the applicable methodology, monitoring, reporting and verification requirements.
 
+Depending on the approved project methodology, eligible activities may include:
 
+- Rainwater harvesting and improved rainwater management.
+- Groundwater recharge and aquifer replenishment.
+- Wastewater treatment and water reuse.
+- Industrial and agricultural water-use efficiency.
+- Water conservation and demand-reduction measures.
+- Other eligible interventions that deliver measurable water benefits.
 
-NOT DOUBLE COUNTED
+The nature and quantity of the benefit must be determined using the relevant methodology. Different activities produce different types of water outcomes; therefore, water credits should not be assumed to represent identical hydrological benefits in every context.
 
+## The Universal Water Registry Approach
 
-Only one entity (company or person) can have the legal custody of the CoUs and hence only one entity can retire/transfer or burn and tokenize the CoUs at any given time. Ownership is determined by the physical custody of the CoUs held in the member account on the UCR (buyer or seller) platform. Each CoU has a unique identifier as per the UCR nomenclature. Hence, there can be no double counting or double selling of the CoUs. All project developers or generators of CoUs provide an undertaking to the UCR, indicating that the CoUs will not be used for any Nationally Determined Contributions (NDCs) for India's climate mitigation international (mandated) obligations. The undertaking is also publicly available on the UCR project database-free to view and download. Using the Burn and Tokenize option, both the digital signature and implied avoidance or reduction tonne is also assumed to be taken “on chain” thus avoiding double counting issues for blockchain token developers who aim to unlock the underlying utility at a later date for their clients.
+The Universal Water Registry provides a framework for registering eligible water projects and recording water-credit outcomes. Its approach emphasizes documented project activities, measurable benefits, transparent records and third-party verification by water auditors empanelled under the UWR framework.
 
-AVOIDS LEAKAGE
+The objective is to help build confidence among project developers, credit buyers, corporates, institutions and other participants in the water-conservation ecosystem.
 
-All UCR green projects reduce, avoid or remove GHG emissions within the boundary of the activity and do not increase emissions elsewhere.
+Water credits can provide a mechanism through which organizations and individuals can support verified water-positive activities, subject to the applicable programme rules and the claims permitted by the relevant methodology.
 
+## Core Principles of a Credible Water-Credit Market
 
-Further information: www.ucarbonregistry.io
+**1. Measurable water benefits**
 
+Credits should be based on clearly defined water outcomes supported by appropriate monitoring, documentation and calculations. The methodology must specify the relevant baseline, project boundary, measurement period and accounting approach.
 
-BLOCKCHAIN NETZERO CARBON TOKEN, NETZERO WATER, SDG, METAVERSE, CARBON NFTs, WATER NFTs, SDG NFTs, GAME-FI, SUSTAINABILITY, CARBON OFFSETS, INDIA VOLUNTARY CARBON LEADER, VOLUNTARY CARBON REGISTRY, CARBON TRADING, ESG, IMPACT INVESTING, ESG INVESTING, INDIA CARBON REGISTRY
+**2. Independent verification**
 
-Further information: www.ucarbonregistry.io
+Eligible outcomes should undergo the applicable independent third-party verification process. Verification helps establish whether the reported water benefits are supported by evidence and comply with programme requirements.
+
+**3. Transparency and traceability**
+
+Project information, credit issuance, ownership transfers and retirement records should be documented in the registry, with public access to non-confidential information in accordance with programme rules.
+
+**4. Environmental and social safeguards**
+
+Projects should be assessed against applicable environmental and social safeguards, including the potential effects on local communities, ecosystems and competing water users.
+
+**5. Protection against double counting**
+
+Clear project accounting, unique credit identification, ownership records and retirement procedures are important to prevent the same credited outcome from being claimed more than once. Where different programmes or funding mechanisms support the same project, the associated claims and accounting boundaries must also be clearly distinguished.
+
+**6. Credible claims**
+
+Purchasers should make claims consistent with the water benefit actually verified, the credit's status and the programme rules. Purchasing or retiring a water credit should not automatically be represented as proof that a company's entire water footprint has been neutralized or that water has physically moved to a particular location.
+
+## Why the Incentive Model Matters
+
+Water scarcity is a complex, local and interconnected challenge. Addressing it requires many different interventions, ranging from household rainwater harvesting and village-level recharge to industrial water reuse and large-scale water-efficiency improvements.
+
+A model that depends exclusively on credit revenues to establish projects risks excluding worthwhile activities when market conditions are unfavourable. An incentive-based approach can instead help reward eligible outcomes while enabling projects to draw on a wider range of funding sources.
+
+The potential benefits include:
+
+- **More participation:** enabling communities, smaller project owners and businesses to engage in structured water-conservation programmes.
+- **Greater scalability:** creating an additional incentive to expand interventions that demonstrate credible water benefits.
+- **Corporate engagement:** offering organizations a mechanism to support eligible water projects as part of broader water-stewardship initiatives.
+- **Improved accountability:** linking recognition and credit issuance to documented outcomes and applicable verification requirements.
+- **A wider conservation ecosystem:** connecting project developers, verifiers, buyers and other stakeholders through a transparent registry framework.
+
+These benefits depend on credible methodologies, buyer demand, reasonable transaction costs, effective verification and appropriate safeguards.
+
+## From Water Credits to Water-Positive Action
+
+The future of water credits should not be measured solely by the price of a credit or the amount of capital raised through credit sales. It should also be measured by whether the mechanism encourages more credible water-conservation activities, supports their continued operation and helps direct resources towards measurable water benefits.
+
+Water credits are not a substitute for sound project financing, effective water governance or responsible water management. They can, however, serve as an additional incentive within a broader ecosystem of public, private and community action.
+
+**The vision is simple: reward positive water action, strengthen confidence in verified outcomes, and make it easier to recognize and scale the many interventions needed to improve water security.**
+
+The Universal Water Registry aims to contribute to this transition by providing a structured framework for registering eligible water projects and recognizing verified water-credit outcomes.
+
+Further information: Universal Water Registry — https://uwaterregistry.io/  
+Water-credit marketplace: https://uwrxpress.uwaterregistry.io/
