@@ -1,7 +1,7 @@
-# Know-Your-Carbon-
-UCR Guide and CoU Attributes
+# Know-Your-Water Credits-
+UWR Guide and RoU Attributes
 
-UNIVERSAL CARBON REGISTRY (SINCE 11 JULY 2021) FIRST AND LARGEST VOLUNTARY CARBON REGISTRY IN INDIA
+UNIVERSAL WATER REGISTRY (SINCE 2022) FIRST AND LARGEST VOLUNTARY WATER CREDITS STANDARD & REGISTRY GLOBALLY
 
 Keeping global temperature rise to below 2°C will require coordinated global action at an unprecedented scale and speed.  Carbon credits as a financing tool to "setup" projects in developing countries is no longer the solution, given the current low prices prevailing since the past 15 years, instead supporting and scaling all types of climate actions and making it super rewarding to establish the same with carbon credits as an incentive is the only way forward. UCR issues credits under this "carbon incentive" model as opposed to the carbon finance model in the voluntary carbon marketUCR issues credits under the carbon incentive model as opposed to the carbon finance model in the voluntary carbon market. The voluntary carbon market enables private investors, governments, non-governmental organizations, and businesses to voluntarily purchase carbon offsets to offset their emissions as opposed to European Carbon Permits (called European Union Allowances-EUAs). The largest category of buyers comprises private firms that purchase carbon offsets for resale or investment. EUAs are not backed by green projects and are issued by the EU regulators each month via auction in the primary market. Regulated EU companies are mandated to buy EUAs or else pay a fine to the regulator (Euro 100+the current cost of the permit (EUA) currently in the market. The EUA market is not open to investors or speculators). There is no mandatory obligations in the voluntary markets.
 
